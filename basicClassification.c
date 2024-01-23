@@ -4,11 +4,8 @@
 
 /* will return if a number is prime*/
     int isPrime(int x){
-       if(x <= 1){
+       if(x < 1){
          return FALSE;
-       }
-       else if(x == 2){
-        return TRUE;
        }
        int i = 2;
        while(i<=x/2){
