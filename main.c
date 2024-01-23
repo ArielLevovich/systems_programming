@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "NumClass.h"
 
+// test1
 // // Function prototypes
 // int isPrime(int num);
 // int isArmstrong(int num);

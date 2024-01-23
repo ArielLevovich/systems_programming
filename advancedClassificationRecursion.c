@@ -2,6 +2,8 @@
 #define FALSE 0
 #define TRUE 1
 
+
+    //test1
     // returns num^power (recursivly)
     int power(int num, int p) {
         if (p == 0) {

@@ -2,6 +2,7 @@
 #define FALSE 0
 #define TRUE 1
 
+//tets1
 /* will return if a number is prime*/
     int isPrime(int x){
        if(x < 1){
