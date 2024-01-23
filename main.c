@@ -23,7 +23,7 @@ int main() {
             printf("%d ", i);
         }
     }
-    printf("The Prime numbers are: ");
+    printf("\nThe Prime numbers are: ");
     for (int i = num1; i <= num2; i++) {
         if (isPrime(i)) {
             printf("%d ", i);
