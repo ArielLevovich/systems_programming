@@ -5,7 +5,7 @@ OBJECTS_LIB_RECURSIVE=basicClassification.o advancedClassificationRecursion.o
 OBJECTS_LIB_LOOP = basicClassification.o advancedClassificationLoop.o
 FLAGS= -Wall -g
 
-
+# 
 all: loops recursives recursived loopd mains maindloop maindrec
 
 loops: libclassloop.a
